@@ -1,0 +1,23 @@
+{
+  "T1": false,
+  "T2": true,
+  "T3": false,
+  "T4": false,
+  "T5": false,
+  "T6": false,
+  "T7": false,
+  "T8": false,
+  "T9": false,
+  "T10": true,
+  "T11": false,
+  "T12": false,
+  "T13": true,
+  "T14": "third_person_scene",
+  "T15": "new_point",
+  "F1": [],
+  "F2": [
+    "That's the first thing we look for when a controller tells us approvals pile up at month-end."
+  ],
+  "W1": 2,
+  "W2": []
+}

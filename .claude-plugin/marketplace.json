@@ -1,0 +1,17 @@
+{
+  "name": "humanspeak",
+  "owner": {
+    "name": "signalfi"
+  },
+  "metadata": {
+    "description": "Write-like-a-human skill for Claude Code, grounded in the SlopShape study"
+  },
+  "plugins": [
+    {
+      "name": "humanspeak",
+      "source": "./",
+      "description": "Write like a human: structure-level fixes for AI-sounding blog, marketing, email and doc writing",
+      "version": "1.0.0"
+    }
+  ]
+}

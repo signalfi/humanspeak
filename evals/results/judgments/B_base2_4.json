@@ -1,0 +1,15 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": true,
+  "G6": 182,
+  "F1": [
+    "Unapproved invoices 'delay payments and strain vendor relationships' (consequence not in brief)",
+    "'on leave' added to 'out' (elaboration beyond brief)",
+    "'on by default for all accounts' (brief says default, not explicitly all accounts)",
+    "Recommendation to confirm backup approvers are set before March 1 (not in brief)",
+    "'reply to this email and we'll help' support offer (not in brief)"
+  ]
+}

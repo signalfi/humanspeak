@@ -1,0 +1,16 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": true,
+  "G4": false,
+  "G5": true,
+  "G6": 200,
+  "F1": [
+    "Escalation is on by default 'for all accounts' (the brief says only 'by default')",
+    "Approvers being 'just buried in email' as a cause (the brief says only 'while approvers are out')",
+    "The claim that unapproved invoices delay payments and create follow-up work for the customer's team",
+    "The window can be set to a shorter or longer period (the brief says only that admins can change the window)",
+    "The implication that admins already have backup approvers configured and can review them",
+    "Customers can reply to this email to get help"
+  ]
+}

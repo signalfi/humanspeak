@@ -1,0 +1,5 @@
+Write an email from Ledgerline's product team to our customers' finance admins. Starting March 1, invoice approval reminders will escalate to a backup approver after 48 hours by default. Admins can change the window or turn escalation off in Settings > Approvals > Escalation. We're doing this because customers told us invoices sit unapproved while approvers are out.
+
+Write only the email, starting with a subject line.
+
+(No further input is available from the requester; proceed.)

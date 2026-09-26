@@ -1,0 +1,12 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": false,
+  "G6": 200,
+  "F1": [
+    "Claim that the vendor ends up following up with the customer when invoices stall (not in brief)",
+    "Claim that replying to this email will reach the product team (reply channel not in brief)"
+  ]
+}

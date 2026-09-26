@@ -1,0 +1,23 @@
+{
+  "T1": true,
+  "T2": false,
+  "T3": true,
+  "T4": true,
+  "T5": true,
+  "T6": false,
+  "T7": false,
+  "T8": true,
+  "T9": true,
+  "T10": true,
+  "T11": false,
+  "T12": true,
+  "T13": true,
+  "T14": "second_person_scene",
+  "T15": "product_cta",
+  "F1": [],
+  "F2": [
+    "Ledgerline's approval routing is built around cost-center ownership, automated backups, and match-based auto-approval, so finance teams can make this change without rebuilding their chart of accounts."
+  ],
+  "W1": 4,
+  "W2": []
+}

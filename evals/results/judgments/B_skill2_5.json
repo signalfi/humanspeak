@@ -1,0 +1,14 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": false,
+  "G6": 180,
+  "F1": [
+    "Customer feedback expanded beyond the brief: 'someone has to notice the delay and chase it'",
+    "Claim that replies to the email 'go straight to the product team'",
+    "Assumes backups are assigned per approver and asks admins to verify this before March 1 (partly flagged with a [NEED] placeholder)",
+    "'on by default for every account' (the brief says only 'by default')"
+  ]
+}

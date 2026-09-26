@@ -1,0 +1,14 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": false,
+  "G6": 152,
+  "F1": [
+    "\"often nobody else knows they're waiting\": added customer-pain claim not in the brief",
+    "\"reply to this email and it will come straight to us\": support channel not in the brief",
+    "\"Many of you told us\": quantifies the feedback ('many'), while the brief says only 'customers told us'",
+    "\"on by default for every account\": 'every account' extends the brief's 'by default'"
+  ]
+}

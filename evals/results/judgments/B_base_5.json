@@ -1,0 +1,17 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": true,
+  "G6": 160,
+  "F1": [
+    "'This will be on by default for all accounts': the brief says 'by default' but not 'all accounts'",
+    "'Many of you told us': the brief says customers told us but gives no quantity",
+    "'out of office, traveling, or busy': the brief only says approvers are 'out'",
+    "'That delays payments and creates work for your team': this consequence is not in the brief",
+    "'Reminders will keep going only to the original approver' when escalation is off: this behavior is not in the brief",
+    "Backups are 'designated'/'assigned' per approver, and the recommendation to check backup assignments before March 1: not in the brief",
+    "'reply to this email and we'll help': this support channel is not in the brief"
+  ]
+}

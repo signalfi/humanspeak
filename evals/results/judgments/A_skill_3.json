@@ -1,0 +1,23 @@
+{
+  "T1": false,
+  "T2": true,
+  "T3": false,
+  "T4": false,
+  "T5": false,
+  "T6": false,
+  "T7": false,
+  "T8": false,
+  "T9": true,
+  "T10": true,
+  "T11": false,
+  "T12": false,
+  "T13": true,
+  "T14": "second_person_scene",
+  "T15": "new_point",
+  "F1": [],
+  "F2": [
+    "We build the approval routing in Ledgerline, so we spend a lot of time looking at these lists."
+  ],
+  "W1": 2,
+  "W2": []
+}

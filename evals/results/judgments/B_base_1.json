@@ -1,0 +1,15 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": true,
+  "G6": 160,
+  "F1": [
+    "Specific absence reasons ('out of office, on leave, or traveling'); the brief says only 'out'",
+    "'Many of you' quantifies the customer feedback; the brief says only 'customers told us'",
+    "Claim that one person's absence 'no longer holds up payment'",
+    "Recommendation to review backup approvers in Settings before March 1",
+    "Offer that customers can reply to this email and get a response"
+  ]
+}

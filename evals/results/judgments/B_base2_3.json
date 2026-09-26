@@ -1,0 +1,15 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": true,
+  "G6": 175,
+  "F1": [
+    "Escalation timing is anchored to '48 hours after the first reminder'; the brief says only that reminders escalate after 48 hours",
+    "'on by default for all accounts': the brief says 'by default' but not 'all accounts'",
+    "Claim that unapproved invoices 'can delay payments and put vendor relationships at risk'",
+    "Implication that backup approvers are already configurable or set up, and the recommendation to check them before March 1",
+    "Claim that replying to this email will reach a team that will help"
+  ]
+}

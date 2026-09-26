@@ -1,0 +1,13 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": false,
+  "G6": 150,
+  "F1": [
+    "Claim that 'often nobody else knows they're waiting' (the brief says only that invoices sit unapproved while approvers are out)",
+    "Claim that replies to this email will reach the product team (no reply channel is given in the brief)",
+    "Claim that escalation is on by default 'for all accounts' (the brief says 'by default' but does not specify all accounts)"
+  ]
+}

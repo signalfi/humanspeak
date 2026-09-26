@@ -1,0 +1,13 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": false,
+  "G6": 160,
+  "F1": [
+    "Claim that nobody finds out until the invoice is already late (brief says only that invoices sit unapproved while approvers are out)",
+    "Claim that replies to this email reach the product team (the brief mentions no reply or support channel)",
+    "'on by default for all accounts' extends the brief's 'by default' to a claim about all accounts"
+  ]
+}

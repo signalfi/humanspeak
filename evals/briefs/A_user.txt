@@ -1,0 +1,6 @@
+Write a blog post for Ledgerline, which sells accounts-payable automation software to mid-sized manufacturers, about why invoice approvals stall in the last week of the month and what a finance team can change in its approval routing to close the books faster. The reader is a controller at a 200-500 person manufacturer who owns the close calendar and spends that week chasing approvers. The decision at stake is whether to tighten dollar thresholds for who must approve, or to restructure approval ownership by cost center.
+
+Your article must be approximately 1000 words long.
+Write only the article, beginning with a title line.
+
+(No further input is available from the requester; proceed.)

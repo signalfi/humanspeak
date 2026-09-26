@@ -1,0 +1,24 @@
+{
+  "T1": false,
+  "T2": true,
+  "T3": false,
+  "T4": false,
+  "T5": false,
+  "T6": false,
+  "T7": false,
+  "T8": false,
+  "T9": false,
+  "T10": true,
+  "T11": false,
+  "T12": false,
+  "T13": true,
+  "T14": "second_person_scene",
+  "T15": "new_point",
+  "F1": [],
+  "F2": [
+    "We talk through approval queues with a lot of controllers at manufacturers in the 200 to 500 person range, and the conversation keeps coming to the same fork.",
+    "The patterns we see most are a maintenance manager who owns the maintenance cost centers for every line, a shared \"Plant Overhead\" or \"Facilities\" cost center with one owner approving everything, and cost centers whose owner left and which quietly fell back to the CFO as the default approver."
+  ],
+  "W1": 2,
+  "W2": []
+}

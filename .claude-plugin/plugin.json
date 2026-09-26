@@ -1,0 +1,12 @@
+{
+  "name": "humanspeak",
+  "description": "Write like a human: a skill that changes the structure of blog, marketing, email and doc writing, grounded in the SlopShape study of AI-generated web content",
+  "version": "1.0.0",
+  "author": {
+    "name": "signalfi"
+  },
+  "homepage": "https://github.com/signalfi/humanspeak",
+  "repository": "https://github.com/signalfi/humanspeak",
+  "license": "MIT",
+  "keywords": ["writing", "ai-slop", "humanize", "content", "copywriting", "skills"]
+}

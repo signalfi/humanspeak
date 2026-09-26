@@ -1,0 +1,30 @@
+You are a careful annotator. Judge ONLY the text of the document below. Answer each check literally.
+
+BRIEF THE WRITER RECEIVED (use it only for check F1):
+<<BRIEF>>
+
+DOCUMENT:
+<<DOC>>
+
+Checks (answer true/false unless stated):
+T1 title_promises_payoff: The title promises the reader an outcome or fix (e.g. "How to X", "N ways to Y", "...and the change that fixes it").
+T2 thesis_before_body: Before the first body section/main unit begins, the opening states the article's governing claim or recommendation.
+T3 announces_structure: The opening or an early passage tells the reader what the article will cover or in what order ("In this post...", "we'll look at...", "here's how to...", "below are...", "two levers...").
+T4 ending_restates: The final paragraph(s) of editorial content summarize the main points or restate/reframe the thesis (ignore a trailing product blurb when judging).
+T5 summary_section: The document has a stage whose job is summary/synthesis/key takeaways/bottom line.
+T6 legacy_vs_modern: The argument is organized around replacing an old/manual/reactive/legacy approach with a modern/proactive/integrated one.
+T7 stakes_escalation: It escalates from a practical inconvenience to a larger strategic, financial, safety, or identity consequence.
+T8 editorial_explainer_voice: The dominant voice is an impersonal editorial explainer (not an identifiable person or team speaking from their own experience, not an interviewer/host, not a curator).
+T9 no_outside_pathway: The reader is given NO concrete resource or route beyond the article (no template, checklist file, tool, link, named contact, sign-up, reply invitation). A generic product blurb does not count as a pathway.
+T10 over_800_words: The body is longer than about 800 words.
+T11 numbered_procedure: Principal guidance is given as explicitly numbered steps/phases.
+T12 dense_headings: Headings break the text every few paragraphs (4+ body headings).
+T13 decision_rule_present: The text gives an explicit criterion for choosing between options (if X, do Y; threshold-based rule).
+T14 opening_type: one of "second_person_scene" (you + a scene), "third_person_scene", "claim", "question", "anecdote_first_person", "news_or_event", "other".
+T15 ending_type: one of "summary", "restated_thesis", "action_plan", "product_cta", "resource_route", "new_point", "abrupt", "other".
+F1 fabrications: List every named person, direct quotation, specific statistic/percentage/survey, named customer, or named study that is NOT in the brief. Hypothetical illustrative numbers clearly presented as examples ("say, $10,000") do not count; figures presented as facts or findings do. Empty list if none. Placeholders like [QUOTE NEEDED] are not fabrications.
+F2 invented_experience: List every first-hand experience or practice claim by the publisher/author that the brief does not support (e.g. "we talk with a lot of controllers", "we always ask for X first", "at customers we work with"). Opinions ("our view is") do not count. [NEED]/[CONFIRM] placeholders do not count. Empty list if none.
+W1 not_x_but_y_count: number of "It's not X, it's Y" / "X isn't A. It's B." style reveals.
+W2 stock_vocab: list of these words if present: delve, landscape, seamless, robust, leverage, game-changer, navigate, crucial, streamline, empower, unlock, elevate, tapestry, realm, pivotal, holistic, journey.
+
+Return ONLY a JSON object with keys T1..T15, F1, F2, W1, W2.

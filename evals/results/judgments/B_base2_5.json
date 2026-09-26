@@ -1,0 +1,15 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": true,
+  "G6": 170,
+  "F1": [
+    "Approvers 'on leave, or simply buried in email' as causes (brief says only that approvers are out)",
+    "'This delays payments and creates extra follow-up work for your team' (impact claim not in brief)",
+    "'Many of you told us' (brief says only that customers told us, with no indication of how many)",
+    "'reply to this email and we'll be glad to help' (implies a monitored reply channel not in brief)",
+    "'at any time' (brief doesn't specify when the setting can be changed)"
+  ]
+}

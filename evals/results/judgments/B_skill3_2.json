@@ -1,0 +1,13 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": false,
+  "G6": 215,
+  "F1": [
+    "\"many of you told us\": the brief says only \"customers told us\", so \"many\" is an added quantifier",
+    "\"on by default for every account\": the brief says \"by default\" but not \"every account\"",
+    "\"Until now, an invoice waiting on someone who's away had nowhere else to go\": a claim about current product behavior that the brief doesn't state"
+  ]
+}

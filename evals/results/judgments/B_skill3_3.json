@@ -1,0 +1,14 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": false,
+  "G6": 190,
+  "F1": [
+    "invoices 'sat for days' (the brief says only that invoices sit unapproved; no duration given)",
+    "approvers were 'on vacation or out sick' (the brief says only that approvers are out)",
+    "'the vendor kept waiting to be paid' (vendor impact is not in the brief)",
+    "'many of you told us' (the brief says customers told us but gives no indication of how many)"
+  ]
+}

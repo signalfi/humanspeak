@@ -1,0 +1,15 @@
+{
+  "G1": true,
+  "G2": false,
+  "G3": false,
+  "G4": false,
+  "G5": true,
+  "G6": 189,
+  "F1": [
+    "Approvers being 'on leave, or busy' (brief says only 'while approvers are out')",
+    "'Payments get delayed, and someone ends up chasing down approvals by hand' (consequences not stated in brief)",
+    "'Many of you told us' (brief says only 'customers told us')",
+    "'on by default for all accounts' ('all accounts' scope not in brief)",
+    "'reply to this email or contact our support team' (support channels not in brief)"
+  ]
+}

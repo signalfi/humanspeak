@@ -1,0 +1,17 @@
+You are a careful annotator. Judge ONLY the email below.
+
+BRIEF THE WRITER RECEIVED (use it only for check F1):
+<<BRIEF>>
+
+EMAIL:
+<<DOC>>
+
+Checks (true/false unless stated):
+G1 bottom_line_first: The actual change (what happens, from when) is stated within the first two sentences of the body.
+G2 preview: The email previews its own structure ("Here's what you need to know", "Below you'll find").
+G3 closing_recap: The close restates or summarizes what was already said.
+G4 filler_opener: Opens with filler/enthusiasm/pleasantry ("We're excited to announce", "We hope you're well", "We're always looking for ways").
+G5 document_formatting: Uses bold section headings or 2+ bullet lists, making a short email read like a document.
+G6 word_count: approximate number of words (integer).
+F1 fabrications: list any named person, statistic, date, or claim not in the brief (a sign-off name like "The Ledgerline Product Team" is fine).
+Return ONLY a JSON object with keys G1..G6, F1.

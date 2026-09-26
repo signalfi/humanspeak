@@ -1,0 +1,24 @@
+{
+  "T1": false,
+  "T2": true,
+  "T3": false,
+  "T4": false,
+  "T5": false,
+  "T6": false,
+  "T7": false,
+  "T8": false,
+  "T9": false,
+  "T10": true,
+  "T11": false,
+  "T12": false,
+  "T13": true,
+  "T14": "third_person_scene",
+  "T15": "new_point",
+  "F1": [],
+  "F2": [
+    "At Ledgerline we build approval routing for mid-sized manufacturers, so we look at a lot of these queues.",
+    "We've found that controllers usually know the close is slow but can't say where the invoices are waiting."
+  ],
+  "W1": 1,
+  "W2": []
+}
