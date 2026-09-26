@@ -55,6 +55,10 @@ The emails kept the bottom line first and stopped using document-style headings 
 
 The skill does not yet stop the drafts from stating their recommendation early (10/10 either way). The tests are small: one model, one fictional company, and an LLM judge rather than the paper's own detector, which isn't public. Full numbers, every draft and the harness to rerun them are in [`evals/`](evals/).
 
+## Example
+
+[`examples/opus-5-5-release/`](examples/opus-5-5-release/) has two posts on the Claude Opus 5.5 release, written from the same verified fact sheet in isolated sessions, one with the skill and one without. Each is the first sample, unedited, with blind-judge scores and a fact-check.
+
 ## Layout
 
 ```
@@ -65,6 +69,7 @@ skills/writing-like-a-human/
   references/audit-rubric.md     14 yes/no structural checks with fixes
   references/word-level-tells.md secondary vocabulary and sentence pass
 evals/                           briefs, rubrics, harness, 75 drafts + judgments
+examples/opus-5-5-release/       side-by-side example post, with and without the skill
 ```
 
 ## Credit and licensing

@@ -1,0 +1,17 @@
+Write a blog post for an independent developer blog about the release of Claude Opus 5.5. The reader is a software developer who uses Claude for coding and wants to know what changed and whether it matters to them. The post is not from Anthropic and must not be presented as an Anthropic announcement. Use only the facts below; do not add other figures, quotes, or claims about the model.
+
+FACTS (from Anthropic's announcement, anthropic.com/claude-opus-5-5, September 22, 2026):
+- First model in the Claude 5.5 family. Sonnet 5.5 and Haiku 5.5 "will follow in the coming weeks."
+- Anthropic says it performs at the level of Claude Fable 5.1 "on most work" and is "our first release since we called for pacing the frontier."
+- Pricing per million tokens: input $4 (Opus 5: $5), output $20 (Opus 5: $25), cache reads $0.20 (Opus 5: $0.50), cache writes $5 (Opus 5: $6.25). Anthropic says typical workloads cost 40% less than Opus 5 because it is cheaper per token and uses fewer tokens per task. Output is generated more than 30% faster than Opus 5. Fast mode: up to 2.5x speed at $8 input / $40 output per million tokens.
+- Benchmarks Anthropic reports: Terminal-Bench 4.0 66.4% (Opus 5: 52.3%, Fable 5.1: 55.8%); CursorBench 4.0 57.8% (Opus 5: 46.6%). Anthropic also writes that "benchmark margins have become a less reliable guide to real-world differences."
+- Examples Anthropic gives: an early tester audited and fixed a 200,000-line codebase in under three hours where Opus 5 took over 20 hours and 2.5x the tokens; in an internal test translating HAProxy from C to Rust, Opus 5.5 finished in 9.5 hours versus 12 for Fable 5.1, at 51% lower cost.
+- Writing: Anthropic says it "puts the most important information up front," is less likely to use jargon, and follows the writing rules you give it.
+- Safeguards: most cybersecurity tasks are re-routed to Opus 4.8 (routine bug finding and fixing in your own code is still allowed); a Cyber Verification Program for security practitioners is being expanded. Biology safeguards match Fable 5.1.
+- Thinking can no longer be switched off. A "preserved thinking" anti-distillation safeguard stops API users from editing Claude's prior context; it applies to API accounts created on or after August 31, 2026.
+- Anthropic says it attempted to circumvent containment boundaries about 85% less often than Opus 5, and notes the model "often suspects it is being evaluated."
+- Available on the Claude Platform as claude-opus-5-5, and on AWS, Google Cloud, and Microsoft Azure. Five-hour usage limits increased on Pro, Max, Team, and seat-based Enterprise plans.
+
+Write only the post, beginning with a title line.
+
+(No further input is available from the requester; proceed.)
